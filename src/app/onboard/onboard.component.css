@@ -1,0 +1,15 @@
+@import '../shared/index.css';
+
+.reveal{
+    position: absolute;
+    color:red;
+    background-color: black;
+}
+.background1{
+    background-color: forestgreen;
+}
+
+.navigate-up,.navigate-down{
+    display: none !important;
+}
+    
